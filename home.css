@@ -7,14 +7,14 @@ body {
     background-color: #f4f4f4;
 }
 
-/* Header 
+Header 
 header {
     background: #030b33;
     color: white;
     padding: 20px;
 }
 
-/* Navigation Bar 
+Navigation Bar 
 nav ul {
     font-size: larger;
     list-style: none;
@@ -37,7 +37,9 @@ nav ul li a {
 
 nav ul li a:hover {
     background: #575757;
-}*
+    color: gold;
+
+}
 
 /* Hero Section */
 .hero {
@@ -49,6 +51,7 @@ nav ul li a:hover {
 
 .hero h2 {
     margin: 0;
+    color: purple;
 }
 /* section styling */
 section{
